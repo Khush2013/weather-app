@@ -1,0 +1,9 @@
+todo: create an add button that will create a city card on the home page
+todo: add weather cards
+todo: copy design of temp details and weather details from https://weather.com/
+todo: continue working on separate weather detail cards
+
+todo: update pressure card to add which direction its going
+todo: make dew point card responsive
+todo: move 30 and 80 in dew point
+todo: make temperature card popup responsive
